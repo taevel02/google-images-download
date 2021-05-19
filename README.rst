@@ -27,3 +27,10 @@ You may not reproduce copyright images without their owner'self permission,
 except in "fair use" cases,
 or you could risk running into lawyer'self warnings, cease-and-desist letters, and copyright suits.
 Please be very careful before its usage! Use this script/code only for educational purposes.
+
+
+Taehoon's Comment
+==========
+
+This only supports Python 3.x; not supported 2.x.
+Image download limit change 100 to 1000
